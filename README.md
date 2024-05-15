@@ -5,7 +5,7 @@ npm i next@latest
 
 ## Tạo mới tệp .env trong thư mục gốc và config như sau:
 
-./ 
+``` 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Z3JhbmQtc2FsbW9uLTI1LmNsZXJrLmFjY291bnRzLmRldiQ
 CLERK_SECRET_KEY=sk_test_0m1NvzBaFhkmyP8vbu7UWHEjgME5pXIWGFuDCrDFVf
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
@@ -25,4 +25,5 @@ NEXT_PUBLIC_STRIPE_SECRET_KEY = sk_test_51Off11Lr7bePVHULGqE0ruhmrZh0g7qiODH0BUK
 
 
 STRIPE_WEBHOOK_SECRET = whsec_5bf77f677d3fd51fa403acf5b958ea833e283ae2d1502e1f44aa0ceb37021802
-./
+```
+
